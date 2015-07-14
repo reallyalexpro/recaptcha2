@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<extension id="recaptcha2" status="unmaintained" xmlns="http://symphony-cms.com/schemas/extension/1.0">
+	<name>reCAPTCHA2</name>
+	<description>reCAPTCHA spam prevention</description>
+	<repo type="github">?</repo>
+	<url type="discuss">?</url>
+	<types>
+		<type>Events</type>
+		<type>Third Party Integration</type>
+	</types>
+	<authors>
+		<author>
+			<name github="reallyalexpro" symphony="community">Reallyalexpro</name>
+		</author>
+	</authors>
+	<releases>
+		<release version="1.0" date="2015-07-14" />
+	</releases>
+</extension>
